@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tahoeban.github.io/sitemap/sitemap.txt
